@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 March 2016 - To: 06 April 2025
+From: 29 March 2016 - To: 07 April 2025
 
-Total Time: 2,312 hrs
+Total Time: 2,312 hrs 52 mins
 
-Ruby              1,591 hrs 9 mins>>>>>>>>>>>>>>>>>--------   68.05 %
-JavaScript        299 hrs 10 mins >>>----------------------   12.80 %
-ERB               117 hrs 31 mins >------------------------   05.03 %
-EJS               57 hrs 10 mins  >------------------------   02.45 %
+Ruby              1,591 hrs 9 mins>>>>>>>>>>>>>>>>>--------   68.03 %
+JavaScript        299 hrs 10 mins >>>----------------------   12.79 %
+ERB               117 hrs 31 mins >------------------------   05.02 %
+EJS               57 hrs 10 mins  >------------------------   02.44 %
 HTML              39 hrs 46 mins  -------------------------   01.70 %
 Other             26 hrs 11 mins  -------------------------   01.12 %
 ```
